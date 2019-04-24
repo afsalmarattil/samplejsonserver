@@ -1,0 +1,252 @@
+{
+    "currentWorkOrder": {
+        "status": "success",
+        "result": {
+            "id": "1",
+            "workCenterNo": "234",
+            "workCenterDescription": "BM-09 AUTOMA AT-2D",
+            "workOrderNo": "P42184",
+            "itemCode": "'50000253",
+            "itemDescription": "Bottle 1 GALLON PE NATURAL",
+            "unitOfMeasurement": "Each",
+            "totalTargetCount": "2000",
+            "totalProductionCount": "200",
+            "noOfBottlesPerPack": 10,
+            "NoOfPacks": "2"
+        }
+    },
+    "avgRateOfProduction": {
+        "status": "success",
+        "result": {
+            "avgNoOfProducts": 18,
+            "scale": "Hour"
+        }
+    },
+    "hourlyRateOfProduction": {
+        "status": "success",
+        "result": [
+            {
+                "date": "24-10-2018",
+                "time": "11",
+                "noOfProducts": 20
+            },
+            {
+                "date": "24-10-2018",
+                "time": "12",
+                "noOfProducts": 40
+            },
+            {
+                "date": "24-10-2018",
+                "time": "13",
+                "noOfProducts": 20
+            },
+            {
+                "date": "24-10-2018",
+                "time": "14",
+                "noOfProducts": 20
+            },
+            {
+                "date": "24-10-2018",
+                "time": "15",
+                "noOfProducts": 40
+            },
+            {
+                "date": "24-10-2018",
+                "time": "16",
+                "noOfProducts": 60
+            },
+            {
+                "date": "24-10-2018",
+                "time": "17",
+                "noOfProducts": 30
+            }
+        ]
+    },
+    "workOrders": {
+        "status": "success",
+        "result": [
+            {
+                "id": "1",
+                "workCenterNo": "P1011",
+                "workCenterDescription": "BM-09 AUTOMA AT-2D",
+                "workOrderNo": "P42184",
+                "itemCode": "'50000253",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "2000",
+                "totalProductionCount": "200",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "2"
+            },
+            {
+                "id": "2",
+                "workCenterNo": "P1005",
+                "workCenterDescription": "BM-09 AUTOMA AT-3D",
+                "workOrderNo": "P42185",
+                "itemCode": "'40000151",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "1000",
+                "totalProductionCount": "1000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "10"
+            },
+            {
+                "id": "3",
+                "workCenterNo": "P1005",
+                "workCenterDescription": "BM-09 AUTOMA AT-2D",
+                "workOrderNo": "P42184",
+                "itemCode": "'50000253",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "2000",
+                "totalProductionCount": "200",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "2"
+            },
+            {
+                "id": "4",
+                "workCenterNo": "P1009",
+                "workCenterDescription": "BM-09 AUTOMA AT-3D",
+                "workOrderNo": "P42185",
+                "itemCode": "'40000151",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "2000",
+                "totalProductionCount": "2000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "10"
+            },
+            {
+                "id": "5",
+                "workCenterNo": "P1011",
+                "workCenterDescription": "BM-09 AUTOMA AT-2D",
+                "workOrderNo": "P42172",
+                "itemCode": "'50000253",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "8000",
+                "totalProductionCount": "8000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "2"
+            },
+            {
+                "id": "6",
+                "workCenterNo": "P1005",
+                "workCenterDescription": "BM-09 AUTOMA AT-3D",
+                "workOrderNo": "P42181",
+                "itemCode": "'40000151",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "10000",
+                "totalProductionCount": "10000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "10"
+            },
+            {
+                "id": "7",
+                "workCenterNo": "P1005",
+                "workCenterDescription": "BM-09 AUTOMA AT-2D",
+                "workOrderNo": "P42188",
+                "itemCode": "'50000253",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "4000",
+                "totalProductionCount": "4000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "2"
+            },
+            {
+                "id": "8",
+                "workCenterNo": "P1009",
+                "workCenterDescription": "BM-09 AUTOMA AT-3D",
+                "workOrderNo": "P42186",
+                "itemCode": "'40000151",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "1000",
+                "totalProductionCount": "1000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "10"
+            }
+        ]
+    },
+    "workCenters": {
+        "status": "success",
+        "result": [
+            {
+                "workCenterNo": "P1005",
+                "workCenterDescription": "BM-05 TECHNE 5000S (P505)"
+            },
+            {
+                "workCenterNo": "P1009",
+                "workCenterDescription": "BM-09 AUTOMA AT-2D"
+            },
+            {
+                "workCenterNo": "P1011",
+                "workCenterDescription": "BM-11 AUTOMA AT-10"
+            },
+            {
+                "workCenterNo": "P1012",
+                "workCenterDescription": "BM-12 AUTOMA AT-10"
+            }
+        ]
+    },
+    "workProductionReport": {
+        "status": "success",
+        "result": [
+            {
+                "id": "1",
+                "workCenterNo": "P1011",
+                "workCenterDescription": "BM-09 AUTOMA AT-2D",
+                "workOrderNo": "P42184",
+                "itemCode": "'50000253",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "2000",
+                "totalProductionCount": "200",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "2"
+            },
+            {
+                "id": "2",
+                "workCenterNo": "P1005",
+                "workCenterDescription": "BM-09 AUTOMA AT-3D",
+                "workOrderNo": "P42185",
+                "itemCode": "'40000151",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "1000",
+                "totalProductionCount": "1000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "10"
+            },
+            {
+                "id": "3",
+                "workCenterNo": "P1005",
+                "workCenterDescription": "BM-09 AUTOMA AT-2D",
+                "workOrderNo": "P42184",
+                "itemCode": "'50000253",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "2000",
+                "totalProductionCount": "200",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "2"
+            },
+            {
+                "id": "4",
+                "workCenterNo": "P1009",
+                "workCenterDescription": "BM-09 AUTOMA AT-3D",
+                "workOrderNo": "P42185",
+                "itemCode": "'40000151",
+                "itemDescription": "Bottle 1 GALLON PE NATURAL",
+                "unitOfMeasurement": "Each",
+                "totalTargetCount": "1000",
+                "totalProductionCount": "1000",
+                "noOfBottlesPerPack": 10,
+                "NoOfPacks": "10"
+            }
+        ]
+    }
+}
